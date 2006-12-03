@@ -1,0 +1,11 @@
+kbgoffice: KBGOffice - A KDE/Qt frontend for the BG Office project
+kbgoffice:
+kbgoffice: KBGOffice is inheritor of the popular dictionary KBEDictionary.
+kbgoffice: It provides easy to use interface for the dictionaries from the
+kbgoffice: Bulgarian Office project. Currently KBGOffice supports all the five
+kbgoffice: dictionaries (English <=> Bulgarian, Polytechnical, Computer Terms,
+kbgoffice: Thesaurus and Dialect), which should be downloaded and installed
+kbgoffice: separately.
+kbgoffice:
+kbgoffice: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+kbgoffice:
